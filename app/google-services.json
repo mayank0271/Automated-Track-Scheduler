@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482733229157",
+    "firebase_url": "https://freeslots-a29a6.firebaseio.com",
+    "project_id": "freeslots-a29a6",
+    "storage_bucket": "freeslots-a29a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482733229157:android:80d37a5b893b068f",
+        "android_client_info": {
+          "package_name": "com.aloofwillow96.rangebar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482733229157-5nm2lrmq61ut2iser9lid13355fmvugi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aloofwillow96.rangebar",
+            "certificate_hash": "46fcc9e2a95947c89521b7d6a3e3c27743afa2ba"
+          }
+        },
+        {
+          "client_id": "482733229157-qaogq8st60p5hq36dhd3fufg3d5db50q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRvCehVlvZUeeSMxd20dqxgMH5hZ0UQ0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482733229157-qaogq8st60p5hq36dhd3fufg3d5db50q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
